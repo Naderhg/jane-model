@@ -11,7 +11,7 @@ const About: React.FC = () => {
               <img 
                 src="https://images.pexels.com/photos/2773977/pexels-photo-2773977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
                 alt="Jane Doe Portrait" 
-                className="w-full h-auto rounded"
+                className="w-full h-auto"
               />
               <div className="absolute -bottom-6 -right-6 w-32 h-32 border-2 border-gold"></div>
             </div>
